@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'django_apscheduler', # App para ejecutar scripts periódicamente.
     'pan_publisher', # Mi app
 ]
 
